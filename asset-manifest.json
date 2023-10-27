@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SANJAY-KUMAR-7/News-App/static/css/main.abd64e84.css",
+    "main.js": "/SANJAY-KUMAR-7/News-App/static/js/main.dfcc0bf9.js",
+    "static/js/787.66a4299e.chunk.js": "/SANJAY-KUMAR-7/News-App/static/js/787.66a4299e.chunk.js",
+    "index.html": "/SANJAY-KUMAR-7/News-App/index.html",
+    "main.abd64e84.css.map": "/SANJAY-KUMAR-7/News-App/static/css/main.abd64e84.css.map",
+    "main.dfcc0bf9.js.map": "/SANJAY-KUMAR-7/News-App/static/js/main.dfcc0bf9.js.map",
+    "787.66a4299e.chunk.js.map": "/SANJAY-KUMAR-7/News-App/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.dfcc0bf9.js"
+  ]
+}
